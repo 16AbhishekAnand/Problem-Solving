@@ -5,55 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="497a4851-802b-431a-980e-2fb90240eb03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../DSA-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../out/production/DSA-java/ArrayList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../out/production/DSA-java/Dynamic-programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../out/production/DSA-java/LinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../out/production/DSA-java/Recursion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../out/production/DSA-java/out/production/ArrayList/ArrayList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../out/production/DSA-java/out/production/Dynamic-programming/Dynamic-programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../.idea/runConfigurations/.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ArrayList/ArrayList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dynamic-programming/Dynamic-programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dynamic-programming/out/production/Dynamic-programming/Dynamic-programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hashmap/Hashmap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hashmap/out/production/Hashmap/Hashmap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/LinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/.idea/Queue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queue/out/production/Queue/.idea/Queue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Recursion/Recursion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/.idea/Stack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stack/out/production/Stack/.idea/Stack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String/String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../String/out/production/String/String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/.idea/Tree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/Diameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/Identical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/MaxDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/RightView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/SumTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/SymmetricTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/Traversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/Width.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/countleaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/leftView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/levelOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tree/mainNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Largestsum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Largestsum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/stock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tempCodeRunnerFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dynamic-programming/MagicalCow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dynamic-programming/MagicalCow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/LLoperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/LLoperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/LinkList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recursion/ArrayNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursion/ArrayNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recursion/Fabnacii.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursion/Fabnacii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recursion/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../String/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,15 +39,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/Abhishek/Documents/Code/DSA-java/src/main/code/String"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Abhishek/Documents/Code/DSA-java/src/main/code/String&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.KadaneAlgo">
     <configuration name="KadaneAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KadaneAlgo" />
