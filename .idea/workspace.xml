@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2021d18-530f-4c85-b677-8200a5b3909e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DSA-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/runConfigurations/.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/code/ArrayList/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/code/LinkedList/LinkedList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/code/ArrayList/stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/code/ArrayList/stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/code/ArrayList/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/code/Dynamic-programming/MagicalCow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/code/Dynamic-programming/MagicalCow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/code/LinkedList/LLoperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/code/LinkedList/LLoperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/code/LinkedList/LinkList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/code/Recursion/Fabnacii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/code/Recursion/Fabnacii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/code/Recursion/tempCodeRunnerFile.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TsX412MO3CAxUmPz6ARKX1ydUL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Abhishek/Documents/Code/DSA-java/src/main/code/Tree"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.LLoperations">
+    <configuration name="LLoperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LLoperations" />
+      <module name="DSA-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopCheck" />
+      <module name="DSA-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NthNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NthNode" />
+      <module name="DSA-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubArraySum" />
+      <module name="DSA-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LLoperations" />
+        <item itemvalue="Application.NthNode" />
+        <item itemvalue="Application.SubArraySum" />
+        <item itemvalue="Application.LoopCheck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2021d18-530f-4c85-b677-8200a5b3909e" name="Changes" comment="" />
+      <created>1691832566880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691832566880</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/code/LinkedList/NthNode.java</url>
+          <line>66</line>
+          <properties class="NthNode" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
