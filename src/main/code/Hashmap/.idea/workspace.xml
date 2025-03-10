@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa4f9132-08e4-4980-8f84-7b91bc81522c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../DSA-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../.idea/runConfigurations/.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/LinkedList.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList/stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList/stock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayList/tempCodeRunnerFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dynamic-programming/MagicalCow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dynamic-programming/MagicalCow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/LLoperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/LLoperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/LinkList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recursion/Fabnacii.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Recursion/Fabnacii.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Recursion/tempCodeRunnerFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList/CountArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList/Duplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList/EqulibriumPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList/Largestsum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList/MajorityElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList/MissingNum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList/MissingRepeating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList/SprialMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList/Transpose.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayList/stock.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Abhishek/Documents/Code/DSA-java/src/main/code/Queue"
+    "last_opened_file_path": "C:/Users/Abhishek/Documents/Code/DSA-java/src/main/code/Hashmap"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

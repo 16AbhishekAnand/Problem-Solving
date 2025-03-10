@@ -1,9 +1,9 @@
-public class WaveNo {
-    /* A numbaer which is greater than before but smaller than after
+public class WaveNum {
+    /* A number which is greater than before but smaller than after
      * i.e arr[1] >= arr[2] <= arr[3] >= arr[4] <= arr[5].....
      */
 
-     public static void waveno(int arr[],int n) {
+    public static void waveno(int arr[],int n) {
         for(int i=0;i<n;i+=2) {
             for(int j=i+1;j<n;) {
                 int temp = arr[j];
@@ -22,7 +22,4 @@ public class WaveNo {
         int n = arr.length;
         waveno(arr, n);
     }
-
-
-    
 }
